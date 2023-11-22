@@ -23,7 +23,7 @@ def draw_rose(color):
 
 def main():
     st.title("The 23rd of Nov")
-    st.image("https://th.bing.com/th/id/R.bd3875e34732a30e135c6b34345f6441?rik=BcmUDcBvAnASiA&riu=http%3a%2f%2fclipart-library.com%2fnew_gallery%2f3-31683_heart-crown-heartcrown-tumblr-aesthetic-pinkaesthetic-aesthetic-heart.png&ehk=mIRcsot3y3Fc4N3sb8TyfMwK33lKyBfD69deblYejbA%3d&risl=&pid=ImgRaw&r=0")
+    st.image("https://th.bing.com/th/id/R.fe06ecc1fd49b9dd7b936981c05b9cad?rik=oxDNJ6iuG7cHLg&pid=ImgRaw&r=0")
 
     # Greet the user
     st.subheader("Hi, K!")
